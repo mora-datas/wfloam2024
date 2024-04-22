@@ -14,8 +14,8 @@ toc: false
 
 Las tarifas de inscripción son las siguientes:
 
-**`Regular:`**<a class="btn btn-danger btn-sm">_100 Bs (14 Sus)_</a><br>
-**`Estudiante:`**<a class="btn btn-danger btn-sm">_50 Bs (7 Sus)_</a>
+**`Regular:`**<a class="btn btn-danger btn-sm">_140 Bs (20 Sus)_</a><br>
+**`Estudiante:`**<a class="btn btn-danger btn-sm">_70 Bs (10 Sus)_</a>
 
 :::
 
