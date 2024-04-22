@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://wflom.qrto.pub/submission/index.html</loc>
+    <loc>https://wfloam2024.quarto.pub/flom-datas/submission/index.html</loc>
     <lastmod>2024-04-22T19:16:58.333Z</lastmod>
   </url>
   <url>
-    <loc>https://wflom.qrto.pub/program/index.html</loc>
+    <loc>https://wfloam2024.quarto.pub/flom-datas/program/index.html</loc>
     <lastmod>2024-04-15T17:52:01.426Z</lastmod>
   </url>
   <url>
-    <loc>https://wflom.qrto.pub/index.html</loc>
+    <loc>https://wfloam2024.quarto.pub/flom-datas/index.html</loc>
     <lastmod>2024-04-22T19:00:00.195Z</lastmod>
   </url>
   <url>
-    <loc>https://wflom.qrto.pub/about/index.html</loc>
+    <loc>https://wfloam2024.quarto.pub/flom-datas/about/index.html</loc>
     <lastmod>2024-04-14T01:59:32.782Z</lastmod>
   </url>
   <url>
-    <loc>https://wflom.qrto.pub/organization/index.html</loc>
+    <loc>https://wfloam2024.quarto.pub/flom-datas/organization/index.html</loc>
     <lastmod>2024-04-16T04:04:20.066Z</lastmod>
   </url>
   <url>
-    <loc>https://wflom.qrto.pub/registration/index.html</loc>
+    <loc>https://wfloam2024.quarto.pub/flom-datas/registration/index.html</loc>
     <lastmod>2024-04-22T18:58:08.895Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wflom.qrto.pub/registration/index.html</loc>
+    <lastmod>2024-04-22T21:13:48.481Z</lastmod>
   </url>
 </urlset>
