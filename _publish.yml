@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 2a4142ef-3a1b-419e-95f5-7fd2d403c400
+      url: 'https://wfloam2024.quarto.pub/flom-datas'

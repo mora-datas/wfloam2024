@@ -1,0 +1,10 @@
+date-heading:
+  content: "Acerca de MORA-DataS"
+  class: "bg-content"
+date-format: "full"
+
+format:
+  html:
+    template-partials:
+      - ../html/title-block.html
+course-logo: /files/img/mora-logo.jpeg

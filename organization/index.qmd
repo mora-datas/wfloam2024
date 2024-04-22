@@ -1,0 +1,37 @@
+---
+title: "Organización"
+page-layout: full
+---
+
+---
+::::: {.home}
+:::: {.grid .course-details}
+
+::: {.g-col-12 .g-col-sm-12 .g-col-md-6}
+<a class="btn btn-danger btn-sm">Comité científico</a>
+
+- **Valentina Sessa** (Francia)
+- **David Sossa** (Chile)
+- **Erik Papa** (Perú)
+- **Charlie Lozano** (Bolivia)
+
+:::
+
+::: {.g-col-12 .g-col-sm-12 .g-col-md-6}
+<a class="btn btn-danger btn-sm">Comité organizador</a>
+
+- **Charlie Lozano** (Chair-Bolivia)
+- **David Sossa** (Chile)
+- **Elvis Valero** (Bolivia)
+- **Fabiola Villanueva** (Bolivia)
+- **Paola Patzi** (Bolivia)
+- **Alejandro Apaza** (Bolivia)
+- **Oscar Bautista** (Bolivia)
+
+:::
+
+::::
+
+:::::
+
+

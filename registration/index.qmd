@@ -1,0 +1,91 @@
+---
+title: "Registro"
+page-layout: full
+toc: false
+---
+
+---
+
+::::: {.home}
+:::: {.grid .course-details}
+
+::: {.g-col-12 .g-col-sm-12 .g-col-md-8}
+### Tarifas
+
+Las tarifas de inscripción son las siguientes:
+
+**`Regular:`**<a class="btn btn-danger btn-sm">_100 Bs (14 Sus)_</a><br>
+**`Estudiante:`**<a class="btn btn-danger btn-sm">_50 Bs (7 Sus)_</a>
+
+:::
+
+::: {.g-col-12 .g-col-sm-12 .g-col-md-8}
+### Beneficios
+
+Las tarifas incluyen: 
+
+1. _Notas de aula y material para los cursos_
+2. _Certificado de participación de los cursos_
+3. _Certificado de participación al Workshop_
+4. _Café en las pausas_
+5. _Cóctel de bienvenida_
+
+:::
+
+::: {.g-col-12 .g-col-sm-3 .g-col-md-3}
+### Cena
+
+El día jueves 11 de julio se realizará una **Cena de Confraternización** a Hrs. 19:30. El costo de adscripción a la cena es de 100 Bs. 
+:::
+
+
+::::
+
+:::::
+
+
+
+
+
+# Ubicación 
+
+:::: {.columns}
+::: {.column}
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15301.692329530053!2d-68.14837379567182!3d-16.504724990499227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x915f206520793ddd%3A0x53f6df346cc69976!2sUniversidad%20Mayor%20de%20San%20Andr%C3%A9s!5e0!3m2!1ses!2sbo!4v1712516912637!5m2!1ses!2sbo" width="550" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+:::
+
+::: {.column}
+
+> ## Av. Villazón N° 1995<br>Plaza del Bicentenario<br>Zona Central.
+
+:::
+
+::::
+
+
+
+## Hoteles
+
+:::: {.columns}
+
+::: {.column}
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d7650.887057127313!2d-68.13708852681224!3d-16.503691438714256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sHoteles%20La%20Paz!5e0!3m2!1ses-419!2sbo!4v1713064303231!5m2!1ses-419!2sbo" width="550" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+:::
+
+::: {.column}
+
+Existen varias opciones de precios de hoteles en inmediaciones del lugar del evento, algunas de ellas son las siguientes:
+
+- **Hotel Europa** (525 Bs ~ 76 Sus)
+- **Madero Hotel & Suites** (373 Bs ~ 54 Sus)
+- **Luxtone Executive Suites** (234 Bs ~ 34 Sus)
+
+
+:::
+::::
+---
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdF00LUyFu2kL0bdLdxQJrD54G6BIvrfofVNIEE--O5CR8POQ/viewform?embedded=true" width="640" height="2259" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>

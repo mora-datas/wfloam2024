@@ -1,0 +1,10 @@
+date-heading:
+  content: "Programa"
+  class: "bg-content"
+date-format: "full"
+
+
+format:
+  html:
+    template-partials:
+      - ../html/title-block.html

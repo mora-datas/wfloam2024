@@ -1,0 +1,6 @@
+---
+title: "Acerca de MORA-DataS"
+subtitle: "El proyecto [Matrices, Optimization, and Randomness with Applications in Data Science (MORA-DataS)]() está compuesto por equipos de investigación de Francia, Chile, Bolivia y Perú. Este proyecto busca fortalecer y establecer redes de colaboración de investigación en las área de optimización y análisis matricial entre la región de sudamérica y Francia. Además, se espera involucrar a investigadores jóvenes y estudiantes por medio de la organización de escuelas y workshops científicos.<br><br>Este proyecto es financiado por el programa MATH-Amsud en cooperación con MEAE (Francia), ANID-CMM (Chile), UMSA (Bolivia) y CONCYTEC (Perú).<br><br> Más información del proyecto: [https://sites.google.com/view/mora-datas/inicio](https://sites.google.com/view/mora-datas/inicio)"
+page-layout: full
+---
+

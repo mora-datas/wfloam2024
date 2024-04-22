@@ -1,0 +1,51 @@
+---
+title: "Programa"
+page-layout: full
+toc: false
+---
+
+
+|Hora|Martes|Miércoles|Jueves|Viernes|
+|-|-|-|-|-|
+|8:30||_Curso A (Sesión 1)_|_Curso A (Sesión 2)_|_Curso A (Sesión 3)_|
+|9:30||Ponencia 1|Ponencia 9|Ponencia 14|
+|10:00||Ponencia 2|Ponencia 10|Ponencia 15|
+|10:30||**Break**|**Break**|**Break**|
+|10:45||Ponencia 3|Ponencia 11|Ponencia 16|
+|11:15||Ponencia 4|Ponencia 12|Ponencia 17|
+|11:45||Ponencia 5|Ponencia 13|Ponencia 18|
+|12:15||**Almuerzo**|**Almuerzo**|**Almuerzo**|
+|14:30||_Curso B (Sesión 1)_|_Curso B (Sesión 2)_|_Curso B (Sesión 3)_|
+|15:30||Ponencia 6|**Paseo por La Paz**|**Clausura**|
+|16:00||**Break**|||
+|16:15|**Registro**|Ponencia 7|||
+|16:45|**Registro**|Ponencia 8|||
+|18:00|**Inauguración**||||
+|19:30|**Recepción**||**Cena de <br>confraternización**||
+
+
+## Cursos
+
+```{=html}
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <td><img src="https://ingenieriayciencias.udp.cl/cms/wp-content/uploads/2020/09/122.-Julio-Lopez-scaled.jpg" /></td>
+      <td><h3>Curso A</h3> <h4> <a href="">Herramientas de Optimización no lineal para clasificación de datos</a></h4><br><h5>Julio López</h5><a class="btn btn-danger btn-sm">Universidad Diego Portales</a></td>
+    </tr>
+    <tr>
+    <td><img src="https://www.cmm.uchile.cl/wp-content/uploads/2018/07/perez_pedro_01.jpg" width="70%"/></td>
+      <td><h3>Curso B</h3><h4><a href="">Funciones de probabilidad: Propiedades de continuidad y diferenciabilidad bajo distribuciones elípticas</a></h4><br><h5>Pedro Pérez</h5><a class="btn btn-danger btn-sm">Universidad de Chile</a></td>   
+    </tr>
+  </tbody>
+</table>
+```
+
+
+

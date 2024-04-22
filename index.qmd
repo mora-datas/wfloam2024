@@ -1,0 +1,48 @@
+---
+title: "[W]()orkshop<br> [F]()ranco<br>[L]()atinoamericano de<br> [O]()ptimización,<br> [A]()leatoriedad y<br> [M]()atrices"
+details: "Organizado por el proyecto de investigación <br> [MORA-DataS](https://sites.google.com/view/mora-datas/inicio) </a>"
+subtitle: |
+  *Del 9 al 12 de julio de  2024*<br>Universidad Mayor de San Andrés, La Paz - Bolivia
+  **Presentación de ponencias y cursos**<br>
+  <p><small><small>Cursos:<br>
+  - [Herramientas de Optimización no lineal para clasificación de datos]()<br><small>*Julio López, Universidad Diego Portales*</small><br>
+  - [Funciones de probabilidad: Propiedades de continuidad y diferenciabilidad bajo distribuciones elípticas]()<br><small>*Pedro Pérez, Universidad de Chile*</small></small></small></p>
+navbar: left
+toc: false
+page-layout: full
+format:
+  html:
+    template-partials:
+      - html/home/title-block.html
+---
+
+::: {layout-ncol=7}
+
+![](https://www.conacyt.gov.py/sites/default/files/upload_editores/u489/math%20logo.jpg)
+
+![](/files/img/mora-logo.jpeg )
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ministère_de_l%27Europe_et_des_Affaires_Étrangères.svg/540px-Ministère_de_l%27Europe_et_des_Affaires_Étrangères.svg.png)
+
+![](https://www.cmm.uchile.cl/wp-content/themes/Chameleon-CMM/images/logo_cmm01.png)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Umsa-logo.svg/1200px-Umsa-logo.svg.png)
+
+
+![](https://anid.cl/wp-content/uploads/2022/04/anid_rojo_azul.png)
+
+![](https://cindocchorrillos.wordpress.com/wp-content/uploads/2014/09/logo-concytec.png?w=640)
+
+:::
+
+
+::: rotate-img 
+<style>
+  body {
+  background-image: url("https://youtu.be/8k-T9adzeEQ");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+</style>
+:::
