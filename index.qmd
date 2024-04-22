@@ -1,12 +1,12 @@
 ---
-title: "[W]()orkshop<br> [F]()ranco<br>[L]()atinoamericano de<br> [O]()ptimización,<br> [A]()leatoriedad y<br> [M]()atrices"
+title: "[W]()orkshop [F]()ranco [L]()atinoamericano de [O]()ptimización, [A]()leatoriedad y [M]()atrices"
 details: "Organizado por el proyecto de investigación <br> [MORA-DataS](https://sites.google.com/view/mora-datas/inicio) </a>"
 subtitle: |
-  *Del 9 al 12 de julio de  2024*<br>Universidad Mayor de San Andrés, La Paz - Bolivia
+  <p>*Del 9 al 12 de julio de  2024*<br>Universidad Mayor de San Andrés, La Paz - Bolivia
   **Presentación de ponencias y cursos**<br>
   <p><small><small>Cursos:<br>
-  - [Herramientas de Optimización no lineal para clasificación de datos]()<br><small>*Julio López, Universidad Diego Portales*</small><br>
-  - [Funciones de probabilidad: Propiedades de continuidad y diferenciabilidad bajo distribuciones elípticas]()<br><small>*Pedro Pérez, Universidad de Chile*</small></small></small></p>
+  - [Herramientas de Optimización no lineal para clasificación de datos]()<br><small>**Julio López, Universidad Diego Portales**</small><br>
+  - [Funciones de probabilidad: Propiedades de continuidad y diferenciabilidad bajo distribuciones elípticas]()<br><small>**Pedro Pérez, Universidad de Chile**</small></small></small></p></p>
 navbar: left
 toc: false
 page-layout: full
@@ -39,7 +39,7 @@ format:
 ::: rotate-img 
 <style>
   body {
-  background-image: url("https://youtu.be/8k-T9adzeEQ");
+  background-image: url("/files/img/fondo.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
