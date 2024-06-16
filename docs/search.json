@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "submission/index.html",
-    "href": "submission/index.html",
-    "title": "Propuestas",
-    "section": "",
-    "text": "Plazos importantes\n\nPresentación de propuestas:  31 de mayo de 2024\nNotificación de aceptación:  7 de junio de 2024\n\n\n\nCriterios de selección\nTodas las propuestas serán revisadas por el comité científico. Las propuestas se elegirán en función de la pertinencia (teórica o empírica), la novedad y la convergencia con los objetivos del workshop.\nLa presentación de resultados aún no publicados o en curso, incluidos trabajos actualmente en revisión, son bienvenidos.\n\n\nInstrucciones para la presentación de propuestas\n\nLas propuestas deben ser elaboradas de acuerdo a la plantilla oficial del workshop.\n\n Descargar plantilla \\LaTeX  Ver en formato PDF\n\nEnviar la propuesta en formato .tex al correo electrónico wfloam@gmail.com."
-  },
-  {
     "objectID": "program/index.html",
     "href": "program/index.html",
     "title": "Programa",
@@ -18,7 +11,14 @@
     "href": "program/index.html#cursos",
     "title": "Programa",
     "section": "Cursos",
-    "text": "Cursos\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCurso A\nHerramientas de Optimización no lineal para clasificación de datos\n\n\nJulio López\nUniversidad Diego Portales\n\n\n\nCurso B\nFunciones de probabilidad: Propiedades de continuidad y diferenciabilidad bajo distribuciones elípticas\n\n\nPedro Pérez\nUniversidad de Chile"
+    "text": "Cursos\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCurso A\nHerramientas de Optimización no lineal para clasificación de datos\n\n\nJulio López\nUniversidad Diego Portales\n\n\n\nCurso B\nFunciones de probabilidad: Propiedades de continuidad y diferenciabilidad bajo distribuciones elípticas\n\n\nPedro Pérez\nUniversidad de Chile"
+  },
+  {
+    "objectID": "organization/index.html",
+    "href": "organization/index.html",
+    "title": "Organización",
+    "section": "",
+    "text": "Comité científico\n\nValentina Sessa (Francia)\nDavid Sossa (Chile)\nErik Papa (Perú)\nCharlie Lozano (Bolivia)\n\n\n\nComité organizador\n\nCharlie Lozano (Chair-Bolivia)\nDavid Sossa (Chile)\nElvis Valero (Bolivia)\nFabiola Villanueva (Bolivia)\nPaola Patzi (Bolivia)\nAlejandro Apaza (Bolivia)\nOscar Bautista (Bolivia)"
   },
   {
     "objectID": "index.html",
@@ -28,11 +28,11 @@
     "text": "Workshop Franco Latinoamericano de Optimización, Aleatoriedad y Matrices\n        \n        \n            \nDel 9 al 12 de julio de 2024Universidad Mayor de San Andrés, La Paz - Bolivia Presentación de ponencias y cursos\n\nCursos: - Herramientas de Optimización no lineal para clasificación de datosJulio López, Universidad Diego Portales - Funciones de probabilidad: Propiedades de continuidad y diferenciabilidad bajo distribuciones elípticasPedro Pérez, Universidad de Chile\n\n\n        \n        \n            Organizado por el proyecto de investigación  MORA-DataS"
   },
   {
-    "objectID": "organization/index.html",
-    "href": "organization/index.html",
-    "title": "Organización",
+    "objectID": "submission/index.html",
+    "href": "submission/index.html",
+    "title": "Propuestas",
     "section": "",
-    "text": "Comité científico\n\nValentina Sessa (Francia)\nDavid Sossa (Chile)\nErik Papa (Perú)\nCharlie Lozano (Bolivia)\n\n\n\nComité organizador\n\nCharlie Lozano (Chair-Bolivia)\nDavid Sossa (Chile)\nElvis Valero (Bolivia)\nFabiola Villanueva (Bolivia)\nPaola Patzi (Bolivia)\nAlejandro Apaza (Bolivia)\nOscar Bautista (Bolivia)"
+    "text": "Plazos importantes\n\nPresentación de propuestas:  31 de mayo de 2024\nNotificación de aceptación:  7 de junio de 2024\n\n\n\nCriterios de selección\nTodas las propuestas serán revisadas por el comité científico. Las propuestas se elegirán en función de la pertinencia (teórica o empírica), la novedad y la convergencia con los objetivos del workshop.\nLa presentación de resultados aún no publicados o en curso, incluidos trabajos actualmente en revisión, son bienvenidos.\n\n\nInstrucciones para la presentación de propuestas\n\nLas propuestas deben ser elaboradas de acuerdo a la plantilla oficial del workshop.\n\n Descargar plantilla \\LaTeX  Ver en formato PDF\n\nEnviar la propuesta en formato .tex al correo electrónico wfloam@gmail.com."
   },
   {
     "objectID": "registration/index.html#hoteles",
