@@ -43,7 +43,9 @@ El día jueves 11 de julio se realizará una **Cena de Confraternización** a Hr
 
 :::::
 
+# Registro
 
+<p class="download-btn"><a class="btn btn-danger btn-sm" href="https://docs.google.com/forms/d/e/1FAIpQLSdF00LUyFu2kL0bdLdxQJrD54G6BIvrfofVNIEE--O5CR8POQ/viewform?embedded=true" role="button">  Regístrate aquí </a></p>
 
 
 
@@ -88,5 +90,8 @@ Existen varias opciones de precios de hoteles en inmediaciones del lugar del eve
 ---
 
 # Registro
+
+<p><a class="btn btn-danger btn-sm" href="https://docs.google.com/forms/d/e/1FAIpQLSdF00LUyFu2kL0bdLdxQJrD54G6BIvrfofVNIEE--O5CR8POQ/viewform?embedded=true" role="button">  Regístrate aquí </a></p>
+
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdF00LUyFu2kL0bdLdxQJrD54G6BIvrfofVNIEE--O5CR8POQ/viewform?embedded=true" width="640" height="2259" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
