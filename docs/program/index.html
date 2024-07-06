@@ -67,13 +67,58 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function () {
+ var mathElements = document.getElementsByClassName("math");
+ var macros = [];
+ for (var i = 0; i < mathElements.length; i++) {
+  var texText = mathElements[i].firstChild;
+  if (mathElements[i].tagName == "SPAN") {
+   katex.render(texText.data, mathElements[i], {
+    displayMode: mathElements[i].classList.contains('display'),
+    throwOnError: false,
+    macros: macros,
+    fleqn: false
+   });
+}}});
+  </script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <meta property="og:title" content="WFLOAM 2024 - Programa">
-<meta property="og:image" content="https://426b28fd-a316-46ce-965a-c8ce3178d1f0.netlify.app//files/social-image-sp24.png">
+<meta property="og:description" content="Actividad organizada por el proyecto de investigación MORA-DataS">
+<meta property="og:image" content="https://64e80618-71dc-4b1f-8a4a-272dbb9ee3a6.netlify.app//files/social-image-sp24.png">
 <meta property="og:site_name" content="WFLOAM 2024">
 <meta property="og:locale" content="es_ES">
 <meta name="twitter:title" content="WFLOAM 2024 - Programa">
-<meta name="twitter:image" content="https://426b28fd-a316-46ce-965a-c8ce3178d1f0.netlify.app//files/social-image-sp24.png">
+<meta name="twitter:description" content="Actividad organizada por el proyecto de investigación MORA-DataS">
+<meta name="twitter:image" content="https://64e80618-71dc-4b1f-8a4a-272dbb9ee3a6.netlify.app//files/social-image-sp24.png">
 <meta name="twitter:creator" content="@andrewheiss">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -155,86 +200,100 @@ ul.task-list li input[type="checkbox"] {
 <td><em>Curso A (Sesión 3)</em></td>
 </tr>
 <tr class="even">
-<td>9:30</td>
+<td>9:00</td>
 <td></td>
-<td>Ponencia 1</td>
-<td>Ponencia 9</td>
-<td>Ponencia 14</td>
+<td><em>Curso A (Sesión 1)</em></td>
+<td><em>Curso A (Sesión 2)</em></td>
+<td><em>Curso A (Sesión 3)</em></td>
 </tr>
 <tr class="odd">
-<td>10:00</td>
+<td>9:30</td>
 <td></td>
-<td>Ponencia 2</td>
-<td>Ponencia 10</td>
-<td>Ponencia 15</td>
+<td><a href="https://drive.google.com/file/d/12Olkm2w9_KFqLTq90Ufw61JFd1JlPq17/view?usp=share_link">David Sossa</a></td>
+<td><a href="https://drive.google.com/file/d/10mjvrRq9M-Tn1k1Mym5SWLBudMlqlamK/view?usp=share_link">Estéfany Castillo</a></td>
+<td><em>Curso B (Sesión 3)</em></td>
 </tr>
 <tr class="even">
+<td>10:00</td>
+<td></td>
+<td><a href="https://drive.google.com/file/d/19cGemq1pn-ccRdXGt9HLSuq-xHQ5O7_q/view?usp=share_link">Fabiola Villanueva</a></td>
+<td><a href="https://drive.google.com/file/d/1FoT7z-N2c4xhn4H3qMMjRlr5vstPBxpI/view?usp=share_link">Javier Martínez</a></td>
+<td><em>Curso B (Sesión 3)</em></td>
+</tr>
+<tr class="odd">
 <td>10:30</td>
 <td></td>
 <td><strong>Break</strong></td>
 <td><strong>Break</strong></td>
 <td><strong>Break</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>10:45</td>
 <td></td>
-<td>Ponencia 3</td>
-<td>Ponencia 11</td>
-<td>Ponencia 16</td>
+<td><a href="https://drive.google.com/file/d/14sIXk-8yI3n7AjNBWfvONduLVe_rem4a/view?usp=share_link">Victor Patty</a></td>
+<td><a href="https://drive.google.com/file/d/1qc6F4VyX8Xyly8A0pPPA12vCxFSub07J/view?usp=share_link">Oscar Bautista</a></td>
+<td><a href="https://drive.google.com/file/d/1wUgS_dwHvzYOrxfw5Nb6R-GIYDNB57po/view?usp=share_link">Gregorio Sempere</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>11:15</td>
 <td></td>
-<td>Ponencia 4</td>
-<td>Ponencia 12</td>
-<td>Ponencia 17</td>
-</tr>
-<tr class="odd">
-<td>11:45</td>
-<td></td>
-<td>Ponencia 5</td>
-<td>Ponencia 13</td>
-<td>Ponencia 18</td>
+<td><a href="**Clausura**">Ernesto Cupé</a></td>
+<td><a href="https://drive.google.com/file/d/1HjtIoXa7gQ-T2LatgnLAbmqcQMuoGNMB/view?usp=share_link">Macarena Trigo</a></td>
+<td><a href="https://drive.google.com/file/d/1ZTEgk3nAVxeS7fhfo3nAGj9t23xFMg2J/view?usp=share_link">Flor Cardenas</a></td>
 </tr>
 <tr class="even">
-<td>12:15</td>
-<td></td>
-<td><strong>Almuerzo</strong></td>
-<td><strong>Almuerzo</strong></td>
-<td><strong>Almuerzo</strong></td>
-</tr>
-<tr class="odd">
-<td>14:30</td>
+<td>11:45</td>
 <td></td>
 <td><em>Curso B (Sesión 1)</em></td>
 <td><em>Curso B (Sesión 2)</em></td>
-<td><em>Curso B (Sesión 3)</em></td>
+<td><a href="https://drive.google.com/file/d/1Gu_HkMUKk6-t-oBBUttA_tkmZX7d8lF2/view?usp=share_link">Lucy De la Cruz</a></td>
+</tr>
+<tr class="odd">
+<td>12:15</td>
+<td></td>
+<td><em>Curso B (Sesión 1)</em></td>
+<td><em>Curso B (Sesión 2)</em></td>
+<td><strong>Clausura</strong></td>
+</tr>
+<tr class="even">
+<td>12:45</td>
+<td></td>
+<td><strong>Almuerzo</strong></td>
+<td><strong>Almuerzo</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>15:00</td>
+<td></td>
+<td><a href="https://drive.google.com/file/d/1ux2-AGcRVwybqCqKrvTkKgYzf6H2SeLh/view?usp=share_link">Alejandro Apaza</a></td>
+<td><strong>Trabajo</strong></td>
+<td></td>
 </tr>
 <tr class="even">
 <td>15:30</td>
 <td></td>
-<td>Ponencia 6</td>
-<td><strong>Paseo por La Paz</strong></td>
-<td><strong>Clausura</strong></td>
+<td><a href="https://drive.google.com/file/d/1YHeflqRxcFMeIqeWmMo4LV5GOgCNKX8p/view?usp=share_link">Daisy Arroyo</a></td>
+<td><strong>Trabajo</strong></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td>16:00</td>
 <td></td>
 <td><strong>Break</strong></td>
-<td></td>
+<td><strong>Paseo por La Paz</strong></td>
 <td></td>
 </tr>
 <tr class="even">
 <td>16:15</td>
 <td><strong>Registro</strong></td>
-<td>Ponencia 7</td>
+<td><strong>Trabajo</strong></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>16:45</td>
 <td><strong>Registro</strong></td>
-<td>Ponencia 8</td>
+<td><strong>Trabajo</strong></td>
 <td></td>
 <td></td>
 </tr>
@@ -275,19 +334,37 @@ ul.task-list li input[type="checkbox"] {
 <br>
 
 <h5 id="julio-lópez" class="anchored">Julio López</h5>
-<span class="btn btn-danger btn-sm">Universidad Diego Portales</span></td>
+<span class="btn btn-danger btn-sm">Universidad Diego Portales</span><br>
+</td>
 </tr>
-<tr class="even">
+</tbody>
+</table>
+<p>En este curso, se presenta los principales problemas de optimización no lineal que aparecen en los modelos clásicos de clasificación de datos, los cuales construyen, ya sea un hiperplano o dos hiperplanos de clasificación. Estos problemas pertenecen a la clase de optimización convexa cuadrática con restricciones lineales. Luego, teniendo en cuenta las condiciones de optimalidad, se discuten sus respectivas formulaciones duales como también algunas herramientas computaciones para solucionarlas. Seguidamente, se discuten algunas métricas para medir y analizar el desempeño de los modelos de clasificación. Finalmente, se presentan algunas extensiones teniendo la naturaleza de los datos, por ejemplo, selección de características importantes, datos con ruido y presencia de outliers.</p>
+<table class="caption-top table" data-quarto-postprocess="true">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
 <td><img src="https://www.cmm.uchile.cl/wp-content/uploads/2018/07/perez_pedro_01.jpg" class="img-fluid" style="width:70.0%"></td>
 <td><h3 id="curso-b" class="anchored">Curso B</h3>
 <h4 id="funciones-de-probabilidad-propiedades-de-continuidad-y-diferenciabilidad-bajo-distribuciones-elípticas" class="anchored"><a href="">Funciones de probabilidad: Propiedades de continuidad y diferenciabilidad bajo distribuciones elípticas</a></h4>
 <br>
 
 <h5 id="pedro-pérez" class="anchored">Pedro Pérez</h5>
-<span class="btn btn-danger btn-sm">Universidad de Chile</span></td>
+<span class="btn btn-danger btn-sm">Universidad de Chile</span><br>
+</td>
 </tr>
 </tbody>
 </table>
+<p>En este curso se introducirá́ la noción de función de probabilidad y se ilustrará́ su aplicación en modelos de problemas de optimización con restricciones en probabilidad. Formalmente, una función de probabilidad corresponde a un objeto definido de la siguiente manera: <span class="math display">φ(x) := P(g_i(x,ξ) ≤ 0, ∀i = 1,...,s),</span> donde <span class="math inline">ξ : Ω → \mathbb{R}^m</span> es un vector aleatorio definido sobre un espacio de probabilidad <span class="math inline">(Ω, A, P),</span> y <span class="math inline">g_i : \mathbb{R}^n × \mathbb{R}^m → \mathbb{R}</span> representan un sistema de desigualdades aleatorio. Una vez introducido este concepto, se estudiarán las propiedades de continuidad de esta función. Para analizar las propiedades variacionales de primer orden, se introducirá́ la técnica de descomposición esférica radial, primero para vectores gaussianos y luego para distribuciones elípticas generales. Utilizando esta herramienta, se estudiará́ la diferenciabilidad de dichas funciones bajo la hipótesis de diferenciabilidad de <span class="math inline">g</span> y <span class="math inline">s = 1.</span> Finalmente, se ilustrarán de manera general las dificultades que surgen al considerar un sistema de desigualdades, es decir, cuando <span class="math inline">s &gt; 1,</span> y las técnicas necesarias para abordar dicho problema.</p>
 
 
 </section>
@@ -385,7 +462,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/426b28fd-a316-46ce-965a-c8ce3178d1f0\.netlify\.app\/");
+      var filterRegex = new RegExp("https:\/\/64e80618-71dc-4b1f-8a4a-272dbb9ee3a6\.netlify\.app\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
