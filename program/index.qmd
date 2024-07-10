@@ -1,5 +1,6 @@
 ---
 title: "Programa"
+subtitle: "Lugar: **Pabellón E**<br> Segundo Pation, Monoblock Central de la UMSA"
 page-layout: full
 toc: false
 ---
